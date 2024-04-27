@@ -1,0 +1,13 @@
+{
+    "name": "adam.banky/b-gy-intal1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adam Banky",
+            "email": "banky.adam@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
