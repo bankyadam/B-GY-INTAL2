@@ -1,7 +1,7 @@
 <?php
-require_once '/var/lib/vendor/autoload.php';
+require_once '../vendor/autoload.php';
 
-$twig = require 'shared/twig_init.php';
+$twig = require '../shared/twig_init.php';
 
 $operators = [
     'add' => '+',
